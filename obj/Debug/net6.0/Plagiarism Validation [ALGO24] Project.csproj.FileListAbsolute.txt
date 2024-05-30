@@ -1,0 +1,36 @@
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Plagiarism Validation [ALGO24] Project.exe
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Plagiarism Validation [ALGO24] Project.deps.json
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Plagiarism Validation [ALGO24] Project.runtimeconfig.json
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Plagiarism Validation [ALGO24] Project.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Plagiarism Validation [ALGO24] Project.pdb
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\EPPlus.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.csproj.AssemblyReference.cache
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.AssemblyInfoInputs.cache
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.AssemblyInfo.cs
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.csproj.CoreCompileInputs.cache
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.csproj.CopyComplete
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\refint\Plagiarism Validation [ALGO24] Project.dll
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.pdb
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\Plagiarism Validation [ALGO24] Project.genruntimeconfig.cache
+D:\College\Algo\Project\RELEASE\[3] Plagiarism Validation\Plagiarism Validation [ALGO24] Project\obj\Debug\net6.0\ref\Plagiarism Validation [ALGO24] Project.dll
