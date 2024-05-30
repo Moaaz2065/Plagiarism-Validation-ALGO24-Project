@@ -13,11 +13,13 @@ This project is expected to significantly reduce the workload on evaluators by a
 * Applying either Kruskal's or Prim's MST (Maximum Spanning Tree) Algorithm to the Graph
 * Outputing Group stats and MST files
 
+
 ## Code Results Vs Time Limits
 
-![image](https://github.com/Moaaz2065/Plagiarism-Validation-ALGO24-Project/assets/98766248/efeb187d-ed4b-48c7-b951-98f3c4917755)
+![image](https://github.com/Moaaz2065/Plagiarism-Validation-ALGO24-Project/assets/98766248/6aadc394-3a0d-4236-be56-a8c48eef4d5c)
 
 ## Kruskals vs Prims
 
-![image](https://github.com/Moaaz2065/Plagiarism-Validation-ALGO24-Project/assets/98766248/2761a24a-8617-4f85-ac2c-3085c0bf4d6e)
+![image](https://github.com/Moaaz2065/Plagiarism-Validation-ALGO24-Project/assets/98766248/8d070839-50e9-42e5-bd16-1c0678e250c8)
+
 
